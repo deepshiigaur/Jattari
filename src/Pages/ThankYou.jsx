@@ -68,7 +68,7 @@ function ThankYou() {
               <p className="jh-description centered">
                 Thank you for getting in touch with
                 Jattari Homes. Our team will review your
-                details and get back to you shortly.
+                details and shortly get back to you .
               </p>
 
               <Link
