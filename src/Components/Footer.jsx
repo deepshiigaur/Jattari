@@ -19,7 +19,7 @@ function Footer() {
             </Link>
 
             <p>
-              Thoughtfully planned spaces designed for comfortable living,
+              Thoughtful planned spaces designed for comfortable living,
               meaningful connections and a better tomorrow.
             </p>
 
